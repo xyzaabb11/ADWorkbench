@@ -1,0 +1,7 @@
+D:\Work\Sharpdevelop\SharpTest\SharpTest\bin\Debug\SharpTest.exe.config
+D:\Work\Sharpdevelop\SharpTest\bin\SharpTest.exe.config
+D:\Work\Sharpdevelop\SharpTest\bin\SharpTest.exe
+D:\Work\Sharpdevelop\SharpTest\bin\SharpTest.pdb
+D:\Work\Sharpdevelop\SharpTest\SharpTest\obj\Debug\SharpTest.exe
+D:\Work\Sharpdevelop\SharpTest\SharpTest\obj\Debug\SharpTest.pdb
+D:\Work\Sharpdevelop\SharpTest\SharpTest\obj\Debug\SharpTest.csprojResolveAssemblyReference.cache

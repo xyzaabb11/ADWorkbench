@@ -1,0 +1,31 @@
+﻿<AddIn name     ="AD.Workbench"
+       author   ="刘英明"
+       copyright="copyright.txt"
+       description  ="AD Main Module"
+       addInManagerHidden = "true">
+  <Manifest>
+    <Identity name="AD.Workbench" version="2.0.0" />
+  </Manifest>
+
+  <Runtime>
+    <Import assembly=":AD.Workbench">
+      <Doozer name="Pad" class="AD.Workbench.Serivces.PadDoozer"/>
+    </Import>
+  </Runtime>
+
+  <Path name="/AD/Services">
+
+    <Service id="AD.Workbench.WinForms.IWinFormsService"
+		         class="AD.Workbench.WinForms.WinFormsService"/>
+
+  </Path>
+
+
+  <Path name = "/AD/Workbench/Pads">
+    <Pad id       = "OutlinePad"
+             category = "Main"
+             title    = "${res:MainWindow.Windows.OutlinePad}"
+             class    = "AD.Workbench.Pads.Output.OutlinePad"
+             defaultPosition = "Bottom,Hidden" />
+  </Path>
+</AddIn>

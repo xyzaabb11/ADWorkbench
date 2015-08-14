@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AD.Workbench", "AD.Workbench\AD.Workbench.csproj", "{15F98378-717D-4C7A-B884-B2612DC799A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ICSharpCode.Core.Presentation", "Libraries\ICSharpCode.Core.Presentation\ICSharpCode.Core.Presentation.csproj", "{7E4A7172-7FF5-48D0-B719-7CD959DD1AC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ICSharpCode.Core", "Libraries\Core\Project\ICSharpCode.Core.csproj", "{35CEF10F-2D4C-45F2-9DD1-161E0FEC583C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ICSharpCode.Core.WinForms", "Libraries\ICSharpCode.Core.WinForms\ICSharpCode.Core.WinForms.csproj", "{857CA1A3-FC88-4BE0-AB6A-D1EE772AB288}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Libraries", "Libraries", "{20FACAC1-9152-41E6-BF46-3948E36D1204}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvalonDock", "Libraries\AvalonDock\AvalonDock\AvalonDock.csproj", "{2FF700C2-A38A-48BD-A637-8CAFD4FE6237}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AddIns", "AddIns", "{1C845A2B-44A5-4EE6-A0A9-3F0BAA819CD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeLand", "AddIns\HomeLand\HomeLand.csproj", "{65A4F453-F24C-434B-AD41-0E9BFE4F3AE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15F98378-717D-4C7A-B884-B2612DC799A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15F98378-717D-4C7A-B884-B2612DC799A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15F98378-717D-4C7A-B884-B2612DC799A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15F98378-717D-4C7A-B884-B2612DC799A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E4A7172-7FF5-48D0-B719-7CD959DD1AC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E4A7172-7FF5-48D0-B719-7CD959DD1AC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E4A7172-7FF5-48D0-B719-7CD959DD1AC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E4A7172-7FF5-48D0-B719-7CD959DD1AC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35CEF10F-2D4C-45F2-9DD1-161E0FEC583C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35CEF10F-2D4C-45F2-9DD1-161E0FEC583C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35CEF10F-2D4C-45F2-9DD1-161E0FEC583C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35CEF10F-2D4C-45F2-9DD1-161E0FEC583C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{857CA1A3-FC88-4BE0-AB6A-D1EE772AB288}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{857CA1A3-FC88-4BE0-AB6A-D1EE772AB288}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{857CA1A3-FC88-4BE0-AB6A-D1EE772AB288}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{857CA1A3-FC88-4BE0-AB6A-D1EE772AB288}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FF700C2-A38A-48BD-A637-8CAFD4FE6237}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FF700C2-A38A-48BD-A637-8CAFD4FE6237}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FF700C2-A38A-48BD-A637-8CAFD4FE6237}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FF700C2-A38A-48BD-A637-8CAFD4FE6237}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65A4F453-F24C-434B-AD41-0E9BFE4F3AE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65A4F453-F24C-434B-AD41-0E9BFE4F3AE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65A4F453-F24C-434B-AD41-0E9BFE4F3AE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65A4F453-F24C-434B-AD41-0E9BFE4F3AE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{35CEF10F-2D4C-45F2-9DD1-161E0FEC583C} = {20FACAC1-9152-41E6-BF46-3948E36D1204}
+		{857CA1A3-FC88-4BE0-AB6A-D1EE772AB288} = {20FACAC1-9152-41E6-BF46-3948E36D1204}
+		{7E4A7172-7FF5-48D0-B719-7CD959DD1AC9} = {20FACAC1-9152-41E6-BF46-3948E36D1204}
+		{2FF700C2-A38A-48BD-A637-8CAFD4FE6237} = {20FACAC1-9152-41E6-BF46-3948E36D1204}
+		{65A4F453-F24C-434B-AD41-0E9BFE4F3AE3} = {1C845A2B-44A5-4EE6-A0A9-3F0BAA819CD8}
+	EndGlobalSection
+EndGlobal

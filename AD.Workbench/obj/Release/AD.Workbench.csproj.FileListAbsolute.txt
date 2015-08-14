@@ -1,0 +1,16 @@
+E:\安装程序\游戏\Dhh_Setup_4_0_0_1_140318\DOLQuest\bin\AD.Workbench.AddIn
+E:\安装程序\游戏\Dhh_Setup_4_0_0_1_140318\DOLQuest\bin\AD.Workbench.pdb
+E:\安装程序\游戏\Dhh_Setup_4_0_0_1_140318\DOLQuest\AD.Workbench\obj\Release\AD.Workbench.csprojResolveAssemblyReference.cache
+E:\安装程序\游戏\Dhh_Setup_4_0_0_1_140318\DOLQuest\AD.Workbench\obj\Release\Startup\App.baml
+E:\安装程序\游戏\Dhh_Setup_4_0_0_1_140318\DOLQuest\AD.Workbench\obj\Release\Workbench\ADWorkbench.baml
+E:\安装程序\游戏\Dhh_Setup_4_0_0_1_140318\DOLQuest\AD.Workbench\obj\Release\Startup\App.g.cs
+E:\安装程序\游戏\Dhh_Setup_4_0_0_1_140318\DOLQuest\AD.Workbench\obj\Release\Workbench\ADWorkbench.g.cs
+E:\安装程序\游戏\Dhh_Setup_4_0_0_1_140318\DOLQuest\AD.Workbench\obj\Release\AD.Workbench_MarkupCompile.cache
+E:\安装程序\游戏\Dhh_Setup_4_0_0_1_140318\DOLQuest\AD.Workbench\obj\Release\AD.Workbench.g.resources
+E:\安装程序\游戏\Dhh_Setup_4_0_0_1_140318\DOLQuest\AD.Workbench\obj\Release\AD.Workbench.Resources.StringResources.resources
+E:\安装程序\游戏\Dhh_Setup_4_0_0_1_140318\DOLQuest\AD.Workbench\obj\Release\AD.Workbench.csproj.GenerateResource.Cache
+E:\安装程序\游戏\Dhh_Setup_4_0_0_1_140318\DOLQuest\AD.Workbench\obj\Release\AD.Workbench.pdb
+E:\安装程序\游戏\Dhh_Setup_4_0_0_1_140318\DOLQuest\bin\log4net.xml
+E:\安装程序\游戏\Dhh_Setup_4_0_0_1_140318\DOLQuest\bin\AD.Workbench.dll.config
+E:\安装程序\游戏\Dhh_Setup_4_0_0_1_140318\DOLQuest\bin\AD.Workbench.dll
+E:\安装程序\游戏\Dhh_Setup_4_0_0_1_140318\DOLQuest\AD.Workbench\obj\Release\AD.Workbench.dll
